@@ -8,8 +8,8 @@ which can be uploaded to PyPi regular repository. This package has three modules
 
 - **To run the unit tests:**
 
-    >Go to `binomial_distribution_package` directory where `binomial_test.py` file exists.</br>
-    >Run the command `python binomial_test.py` to run the unit tests.
+    >* Go to `binomial_distribution_package` directory where `binomial_test.py` file exists.</br>
+    >* Run the command `python binomial_test.py` to run the unit tests.
   If all the test pass you get success messages. Its recomended to run the unit tests before publishing packages.
   
 - **To upload package:**
